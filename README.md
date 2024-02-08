@@ -18,7 +18,7 @@ Calculates the average order value for each month, providing insights into month
 Lists products that have never been ordered, which might indicate issues with visibility, pricing, or demand
 
     *Query Orders for a  User1
-Retrieve All Orders for a Specific User here user_id=1
+Retrieve All Orders for a Specific User "here user_id=1"
 This query fetches all orders placed by a specific user, identified by their user_id.
  It includes order details such as order date, status, and total amount.
 
