@@ -1,0 +1,11 @@
+INSERT INTO Products (Name, Description, Price, StockQuantity) VALUES
+('Product 1', 'Description for product 1', 10.00, 100),
+('Product 2', 'Description for product 2', 15.00, 200),
+('Product 3', 'Description for product 3', 20.00, 150),
+('Product 4', 'Description for product 4', 25.00, 100),
+('Product 5', 'Description for product 5', 30.00, 90),
+('Product 6', 'Description for product 6', 35.00, 80),
+('Product 7', 'Description for product 7', 40.00, 70),
+('Product 8', 'Description for product 8', 45.00, 60),
+('Product 9', 'Description for product 9', 50.00, 50),
+('Product 10', 'Description for product 10', 55.00, 40);
