@@ -7,7 +7,7 @@
 
      It includes tables for users, products, orders, and order details.
 
-     10 rows inserted of data into each of the tables.
+     10 rows inserted  into each of the tables.
 
 some queries added as described bellow:
 
